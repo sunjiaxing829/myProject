@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.bkjk.housing</groupId>
+    <artifactId>contractaward-web</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>${project.artifactId}</name>
+    <description>contractaward web provider</description>
+
+    <parent>
+        <groupId>com.bkjk.platform.summerframework</groupId>
+        <artifactId>root-pom</artifactId>
+        <version>1.1.4-RELEASE</version>
+    </parent>
+
+    <properties>
+        <java.version>10</java.version>
+        <start-class>com.bkjk.com.bkjk.housing.ContractAwardApplication</start-class>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.bkjk.platform.summerframework</groupId>
+                <artifactId>platform-dependencies</artifactId>
+                <version>${project.parent.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    <dependencies>
+
+
+        <dependency>
+            <groupId>com.bkjk.housing</groupId>
+            <artifactId>contractaward</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.bkjk.platform.summerframework</groupId>
+            <artifactId>platform-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.bkjk.platform.summerframework</groupId>
+            <artifactId>platform-starter-configcenter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.bkjk.platform.summerframework</groupId>
+            <artifactId>platform-starter-eureka</artifactId>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <finalName>${project.artifactId}</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-site-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+        </plugins>
+    </build>
+
+    <repositories>
+        <repository>
+            <id>public</id>
+            <name>public</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/groups/public</url>
+        </repository>
+
+        <repository>
+            <id>thirdparty</id>
+            <name>thirdparty</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/thirdparty</url>
+        </repository>
+
+        <repository>
+            <id>Bkjk-Platform-Snapshots</id>
+            <name>Bkjk-Platform-Snapshots</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/Bkjk-Platform-Snapshots</url>
+        </repository>
+
+        <repository>
+            <id>Bkjk-Platform-Releases</id>
+            <name>Bkjk-Platform-Releases</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/Bkjk-Platform-Releases</url>
+        </repository>
+
+        <repository>
+            <id>Bkjk-Business-Snapshots</id>
+            <name>Bkjk-Business-Snapshots</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/Bkjk-Business-Snapshots</url>
+        </repository>
+
+        <repository>
+            <id>Bkjk-Business-Releases</id>
+            <name>Bkjk-Business-Releases</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/Bkjk-Business-Releases</url>
+        </repository>
+
+    </repositories>
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>Bkjk-Business-Snapshots</id>
+            <name>Bkjk-Business-Snapshots</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/Bkjk-Business-Snapshots/</url>
+        </snapshotRepository>
+        <repository>
+            <id>Bkjk-Business-Releases</id>
+            <name>Bkjk-Business-Releases</name>
+            <url>http://nexus.bkjk-inc.com/nexus/content/repositories/Bkjk-Business-Releases/</url>
+        </repository>
+    </distributionManagement>
+</project>

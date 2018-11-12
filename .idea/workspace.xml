@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97cba3e8-11a7-44b8-98ad-816c8becb67e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/contractaward-web/target/" />
+    <ignored path="$PROJECT_DIR$/contractaward-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.19.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1457100857">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="1" />
+          <entry key="class" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="85" />
+          <entry key="options" value="1" />
+          <entry key="packages" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="10" />
+          <entry key="xml" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="85" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="10" />
+          <entry key="XML" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="42" />
+          <entry key="java" value="69" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="39" />
+          <entry key="xml" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="69" />
+          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="Properties" value="39" />
+          <entry key="XML" value="75" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/ContractImageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/common/web/CommonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/AgreementController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3661">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/AgreementExamineController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/passport/web/PassportController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/contract/web/ContractController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/maven/beike-responsitory/com/bkjk/housing/contractaward-spi/1.0.8-SNAPSHOT/contractaward-spi-1.0.8-20181109.022846-4.jar!/com/bkjk/housing/contractaward/contract/api/ContractInfoApi.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/thirdcenter/passport/PassportService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/ContractAwardApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>servlet-a</find>
+      <find>javax.servlet</find>
+      <find>serv</find>
+      <find>messageSource</find>
+      <find>soa-dev-eureka</find>
+      <find>loginr</find>
+      <find>SWAGGER_SCAN_BASE_PACKAGE</find>
+      <find>swagger</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/housing/config/EventConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/housing/config/ContractAwardWebAppConfig.java" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/housing/ContractAwardApplication.java" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/housing/config/ContractAwardConfiguration.java" />
+        <option value="D:/maven/beike-responsitory/com/bkjk/platform/summerframework/root-pom/1.1.4-RELEASE/root-pom-1.1.4-RELEASE.pom" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/EventConfig.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/interceptor/BaseInterceptor.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/web/AgreementController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/web/AgreementExamineController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/web/ContractImageController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/common/web/CommonController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/contract/web/ContractController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/passport/PassportUtil.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/BaseResult.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/ContractAwardWebAppConfig.java" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/ContractAwardConfiguration.java" />
+        <option value="$PROJECT_DIR$/contractaward-web/pom.xml" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/passport/web/PassportController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/pom.xml" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/Contraller.java" />
+        <option value="$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/ContractAwardApplication.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/contractaward/api/vo/JsonDto.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/api/vo/JsonDto.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/ContractImageController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/thirdcenter/passport/PassportService.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/AgreementExamineController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/common/web/CommonController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/passport/web/PassportController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/AgreementController.java" />
+        <option value="$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/contract/web/ContractController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="contractaward" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="contractaward" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="contractaward-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="contractaward-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="contractaward-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1922" />
+    <option name="y" value="-77" />
+    <option name="width" value="1079" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="contractaward" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contractaward" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="annotation&#9;PSI&#9;JAVA://com.sun.xml.internal.xsom.impl.parser.state.annotation&#10;ContractEditorService.&#9;FILE&#9;file://D:/workspace/OTHER/contractaward/contractaward-service/src/main/java/com.bkjk.housing/common/thirdcenter/contract/ContractEditorService.java&#10;META-INF&#9;FILE&#9;jar://D:/maven/beike-responsitory/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9.jar!/META-INF&#10;ResourceBundleMessageSource&#9;PSI&#9;JAVA://org.springframework.context.support.ResourceBundleMessageSource&#10;EmbeddedServletContainerFactory&#9;FILE&#9;jar://D:/maven/beike-responsitory/org/springframework/boot/spring-boot/1.5.13.RELEASE/spring-boot-1.5.13.RELEASE-sources.jar!/org/springframework/boot/context/embedded/EmbeddedServletContainerFactory.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542017335721" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BKJK" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bkjk.housing.common.thirdcenter.passport" />
+      <recent name="com.bkjk.housing.common.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com\bkjk\housing\contractaward" />
+      <recent name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util" />
+      <recent name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common" />
+      <recent name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java" />
+      <recent name="D:\workspace\OTHER\contractaward" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="contractaward" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.bkjk.housing.ContractAwardApplication" />
+      <module name="contractawardweb" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8190 -Dlog.home=/opt/app/logs -Dspring.profiles.active=dev -Dapp.id=contractaward -Dfile.encoding=UTF-8 -Deureka.client.serviceUrl.defaultZone=http://eureka.dev.bkjk.cn/eureka/ -Deureka.instance.metadata-map.zone=sjx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97cba3e8-11a7-44b8-98ad-816c8becb67e" name="Default Changelist" comment="" />
+      <created>1541668176424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541668176424</updated>
+      <workItem from="1541668182249" duration="19310000" />
+      <workItem from="1541760772067" duration="1800000" />
+      <workItem from="1541988657736" duration="7612000" />
+      <workItem from="1542013374768" duration="2743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31465000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-90" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32942432" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40089086" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32962137" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32850778" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.29690832" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/passport/domain/UserBo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/passport/domain/RoleBo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/passport/PassportUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/BaseResult.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="924" selection-start-line="924" selection-end-line="924" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/beike-responsitory/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="124" column="56" selection-start-line="124" selection-start-column="56" selection-end-line="124" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/EventConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/HystrixConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/beike-responsitory/com/bkjk/platform/summerframework/platform-starter-web/1.1.4-RELEASE/platform-starter-web-1.1.4-RELEASE.jar!/com/bkjk/platform/web/resolver/PlatformScopeResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/api/ApiController.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/BeanCopyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/common/web/CommonController.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/service/AgreementService.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/web/AgreementExamineController.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/web/ContractImageController.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/thirdcenter/contract/ContractEditorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/jdk.xml.bind/com/sun/xml/internal/xsom/impl/parser/state/annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/ContractAwardWebAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/target/apidocs/javadoc.bat" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/target/apidocs/options" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/target/apidocs/packages" />
+    <entry file="jar://D:/maven/beike-responsitory/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/annotation/LoginRequired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/config/ContractAwardConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/beike-responsitory/org/springframework/spring-expression/4.3.17.RELEASE/spring-expression-4.3.17.RELEASE-sources.jar!/org/springframework/expression/spel/ast/PropertyOrFieldReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="240" column="36" selection-start-line="240" selection-start-column="36" selection-end-line="240" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/service/ContractImageService.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/agreement/web/AgreementController.java" />
+    <entry file="jar://D:/maven/beike-responsitory/org/springframework/spring-core/4.3.17.RELEASE/spring-core-4.3.17.RELEASE-sources.jar!/org/springframework/core/Ordered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/contract/web/ContractController.java" />
+    <entry file="jar://D:/maven/beike-responsitory/io/springfox/springfox-swagger-common/2.8.0/springfox-swagger-common-2.8.0-sources.jar!/springfox/documentation/swagger/common/SwaggerPluginSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/beike-responsitory/io/springfox/springfox-spi/2.8.0/springfox-spi-2.8.0-sources.jar!/springfox/documentation/spi/DocumentationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="93" column="3" selection-start-line="93" selection-start-column="3" selection-end-line="93" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/contractaward/passport/web/PassportController.java" />
+    <entry file="jar://D:/maven/beike-responsitory/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/Contraller.java" />
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/api/vo/JsonDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/util/PrivilegeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/ContractImageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/common/web/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/AgreementExamineController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/passport/web/PassportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com.bkjk.housing/common/thirdcenter/passport/PassportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-web/src/main/java/com/bkjk/housing/ContractAwardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/agreement/web/AgreementController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3661">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/beike-responsitory/com/bkjk/housing/contractaward-spi/1.0.8-SNAPSHOT/contractaward-spi-1.0.8-20181109.022846-4.jar!/com/bkjk/housing/contractaward/contract/api/ContractInfoApi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractaward-service/src/main/java/com/bkjk/housing/contractaward/contract/web/ContractController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|contractawardweb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

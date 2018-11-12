@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\annotation\LoginRequired.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\constant\JsonConstants.java">
+<error line="3" severity="error" message="interfaces should describe a type and hence have methods." source="com.puppycrawl.tools.checkstyle.checks.design.InterfaceIsTypeCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\constant\MqConstants.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\BusinessTypeEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\CommonTypeEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\ContractCompleteStatusEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\ContractStatusEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\LoanStatusEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\MessageKeyEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\PositionLevelEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\ProductTypeEnum.java">
+<error line="17" column="30" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\SupplementAgreementEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\TemplateTypeEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\TerminationAgreementEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\enums\WorkFlowPostEnum.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\interceptor\BaseInterceptor.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\interceptor\LoginInterceptor.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\capitalplatform\CapitalPlatformService.java">
+<error line="45" column="5" severity="error" message="Executable statement count is 90 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="140" column="21" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="143" column="21" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="146" column="21" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="150" column="21" severity="error" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="213" column="5" severity="error" message="Executable statement count is 201 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="371" column="21" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="375" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="378" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="381" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="384" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="388" column="25" severity="error" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="528" column="21" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="532" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="535" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="538" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="541" column="25" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="545" column="25" severity="error" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\capitalplatform\domain\FundContractDocReqest.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\capitalplatform\domain\FundInfoRequest.java">
+<error line="144" column="36" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\capitalplatform\domain\FundInfoResponseBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\contract\ContractEditorService.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\crm\CrmService.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\finance\domain\CalculateBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\finance\domain\ChargeBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\finance\FinanceService.java">
+<error line="1" severity="error" message="File length is 1,134 lines (max allowed is 800)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+<error line="104" column="5" severity="error" message="Executable statement count is 69 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="254" column="5" severity="error" message="Executable statement count is 50 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="401" column="5" severity="error" message="Executable statement count is 58 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="529" column="5" severity="error" message="Executable statement count is 77 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="794" column="131" severity="error" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="854" column="131" severity="error" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="910" column="5" severity="error" message="Executable statement count is 45 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="918" column="131" severity="error" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="926" column="139" severity="error" message="&apos;;&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\loan\LoanService.java">
+<error line="3" column="8" severity="error" message="Unused import - com.bkjk.housing.common.enums.BusinessTypeEnum." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="30" column="8" severity="error" message="Unused import - java.text.ParseException." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\passport\PassportService.java">
+<error line="77" column="25" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\thirdcenter\product\ProductService.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\BaseResult.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\BeanCopyUtil.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\FieldUtil.java">
+<error line="36" column="21" severity="error" message="Nested for depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck"/>
+<error line="69" column="21" severity="error" message="Nested for depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\JsonObjectUtils.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\passport\domain\OperationParticipantBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\passport\domain\RoleBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\passport\domain\UserBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\passport\PassportUtil.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\PrivilegeUtil.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\common\util\ThirdPartyApiUtil.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\service\AgreementService.java">
+<error line="344" column="17" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="345" column="21" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="348" column="21" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="352" column="21" severity="error" message="Nested if-else depth is 3 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="362" column="17" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+<error line="364" column="17" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\service\ContractImageService.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\AgreementCheckVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\AgreementExamainVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\AgreementSaveVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\AgreementTemplate.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\AgreementTemplateVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\AgreementVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\CalculateVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\vo\ContractImageVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\web\AgreementController.java">
+<error line="260" column="17" severity="error" message="Nested if-else depth is 2 (max allowed is 1)." source="com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck"/>
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\web\AgreementExamineController.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\agreement\web\ContractImageController.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\api\ApiController.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\api\vo\CapitalPlatformVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\api\vo\JsonDto.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\common\vo\FieldMappingVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\common\web\CommonController.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\service\ContractService.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\vo\BasePageVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\vo\CaculateVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\vo\ContractCityVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\vo\ContractSearchVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\vo\PageListContractSearchVo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\contract\web\ContractController.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\passport\domain\LoginUserBo.java">
+</file>
+<file name="D:\workspace\OTHER\contractaward\contractaward-service\src\main\java\com.bkjk.housing\contractaward\passport\web\PassportController.java">
+</file>
+</checkstyle>
